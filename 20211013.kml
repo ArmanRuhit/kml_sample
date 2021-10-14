@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?><kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom"><Document><name>2021-10-13T15:04:11.204Z</name>
+<Placemark>
+<gx:Track>
+
+<when>2021-10-13T15:04:11.204Z</when>
+<gx:coord>90.42538 23.72964 0.0</gx:coord>
+
+<when>2021-10-13T15:05:15.765Z</when>
+<gx:coord>90.425305 23.728961666666667 0.0</gx:coord>
+
+<when>2021-10-13T15:06:45.834Z</when>
+<gx:coord>90.42523166666666 23.731306666666665 0.0</gx:coord>
+
+<when>2021-10-13T15:07:49.484Z</when>
+<gx:coord>90.42427166666667 23.732158333333334 0.0</gx:coord>
+
+<when>2021-10-13T15:08:53.838Z</when>
+<gx:coord>90.421755 23.731633333333335 0.0</gx:coord>
+
+<when>2021-10-13T15:09:57.647Z</when>
+<gx:coord>90.42007666666666 23.73246333333333 0.0</gx:coord>
+
+<when>2021-10-13T15:11:01.931Z</when>
+<gx:coord>90.41856 23.733903333333334 0.0</gx:coord>
+
+<when>2021-10-13T15:12:21.170Z</when>
+<gx:coord>90.41612 23.7356 0.0</gx:coord>
+
+<when>2021-10-13T15:13:25.069Z</when>
+<gx:coord>90.41284666666667 23.736515 0.0</gx:coord>
+
+<when>2021-10-13T15:14:47.032Z</when>
+<gx:coord>90.40839666666666 23.73746 0.0</gx:coord>
+
+<when>2021-10-13T15:15:50.851Z</when>
+<gx:coord>90.40413 23.73711 0.0</gx:coord>
+
+<when>2021-10-13T15:16:54.623Z</when>
+<gx:coord>90.40274666666667 23.733798333333333 0.0</gx:coord>
+
+<when>2021-10-13T15:17:58.470Z</when>
+<gx:coord>90.39980333333334 23.736368333333335 0.0</gx:coord>
+
+<when>2021-10-13T15:19:17.746Z</when>
+<gx:coord>90.39530166666667 23.738098333333333 0.0</gx:coord>
+
+<when>2021-10-13T15:20:21.962Z</when>
+<gx:coord>90.39180666666667 23.738598333333332 0.0</gx:coord>
+
+<when>2021-10-13T15:21:25.807Z</when>
+<gx:coord>90.38864 23.738995 0.0</gx:coord>
+
+<when>2021-10-13T15:22:29.462Z</when>
+<gx:coord>90.3856 23.738926666666668 0.0</gx:coord>
+
+<when>2021-10-13T15:23:53.678Z</when>
+<gx:coord>90.38387666666667 23.737068333333333 0.0</gx:coord>
+</gx:Track>
+</Placemark></Document></kml>
